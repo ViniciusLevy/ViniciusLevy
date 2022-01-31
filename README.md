@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusLevy
-- 👀 I’m interested in HTML5, CSS3 and JavaScript.
-- 🌱 I’m currently learning HTML5 and CSS.
+- 👀 I’m interested in HTML5, CSS3, JavaScript, React JS, Node JS and Java.
+- 🌱 I’m currently learning HTML5, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on Opensource Projects.
 - 📫 How to reach me: viniciusmlevy@gmail.com
 
